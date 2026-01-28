@@ -51,7 +51,7 @@
                         <?php echo number_format($data['p_amount'], 2);?>
                     </td>
                     <td align="center">
-                        <img src="images/<?php echo $data['p_product_name'];?>.jpeg" width="55" height="55" alt="product">
+                        <img src="images/<?php echo $data['p_product_name'];?>.jpg" width="55" height="55" alt="product">
                     </td>
                 </tr>
                 <?php } ?>
