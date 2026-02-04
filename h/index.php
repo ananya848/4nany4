@@ -1,6 +1,6 @@
-<!doctype html>
-<html>
-<head>
+<?php
+	session_start();
+?>
 <meta charset="utf-8">
 <title>อนัญญา ผลจันทร์ (ตาล)<!doctype html>
 <html>
