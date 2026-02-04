@@ -18,7 +18,7 @@ Password <input type="password" name="apwd" required> <br>
 <button type="submit" name="Submit">LOGIN</button>
 </body>
 </html>
-/title>
+</title>
 </head>
 
 <body>
